@@ -1,11 +1,14 @@
 # CMPUT 301: Lab 7 Participation Exercise
 
 ## Student Details
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+
+- **Full Name:** `Lalith Srivatsava Valluru`
+- **CCID:** `lvalluru`
 
 ## References and Resources
-List any resources used here, or simply put `N/A` if not applicable.
+
+I used Brave Search to find out how to check if a driver was no longer in the list after clicking clear button and I found the assertDoesNotExist() method.
 
 ## Verbal Collaboration
-List students' names and CCIDs here, or simply put `N/A` if not applicable. 
+
+N/A
